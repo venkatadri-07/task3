@@ -1,3 +1,16 @@
+
+NAME: DERUNGULA VENKATADRI
+
+COMPANY: CODTECH IT SOLUTION
+
+ID::CT08DVW 
+
+DOMAIN: JAVA PROGRAMMING
+
+DURATION: DEC17 2024 TO JAN17 2025
+
+MENTOR: N.SANTHOSH
+
 **#Chat Application using Java Sockets and Multithreading**
 
 **Overview**
